@@ -7,15 +7,8 @@
         "laravel"
     ],
     "license": "MIT",
-    "repositories": [
-        {
-            "url": "https://github.com/mutationevent/laravel-readable.git",
-            "type": "git"
-        }
-    ],
     "require": {
         "php": "^8.0.2",
-        "andheiberg/readable": "dev-master",
         "filament/filament": "^2.0",
         "filament/forms": "^2.0",
         "filament/spatie-laravel-media-library-plugin": "^2.0",
