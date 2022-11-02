@@ -1,0 +1,9 @@
+@import '../../vendor/filament/filament/resources/css/app.css';
+
+.filament-forms-section-component{
+    /*border:none;*/
+    /*@apply shadow;*/
+}
+.filament-forms-section-header-wrapper{
+    /*@apply bg-gray-50 border-b;*/
+}
